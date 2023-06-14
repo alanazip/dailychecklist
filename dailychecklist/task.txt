@@ -1,0 +1,23 @@
+git add .
+git commit -m "Adicionando pastas iniciais"
+git push -u origin main
+git push --force origin main
+
+git remote add origin https://github.com/alanazip/dailychecklist.git
+----------------
+npx prisma studio
+npm run dev
+npx prisma migrate dev
+npx prisma db seed
+npm i zod
+npm i dayjs
+npm i phosphor-react
+npm i clsx
+npm i axios
+----------------
+.env colocar isso
+DATABASE_URL="file:./dev.db"
+>format
+
+parei no 32:00
+npm i -D prisma-erd-generator @mermaid-js/mermaid-cli
