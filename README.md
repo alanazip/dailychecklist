@@ -93,18 +93,6 @@ npm run dev
 
 ---
 
-## 📸 Screenshots
-
-### Dashboard
-
-![Habits Dashboard](./docs/screenshot-dashboard.png)
-
-### Task List
-
-![Task List](./docs/screenshot-list.png)
-
----
-
 ## 👩‍💻 Authors
 
 Developed as a **group project by FATEC Presidente Prudente students**:
