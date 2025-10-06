@@ -31,7 +31,7 @@ It works like a **to-do list / habit tracker**, allowing users to create, manage
 **Backend**
 - [Node.js](https://nodejs.org/)  
 - [Prisma ORM](https://www.prisma.io/)  
-- [SQLite / PostgreSQL (configurable)]  
+- [SQLite / PostgreSQL]  
 
 ---
 
